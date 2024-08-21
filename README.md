@@ -25,7 +25,6 @@
  </table>
  <div align ="center">
    
- // [![ahmmanso's 42 stats](https://badge.nimon.fr/api/v2/clzah4drn076601rsftecbxyc/stats?cursusId=21&coalitionId=446)](https://github.com/Nimon77/badge42)
  </div>
 <div align ="center">
   <h2>Connect With Me</h2>
